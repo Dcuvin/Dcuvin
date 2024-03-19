@@ -12,10 +12,10 @@
 -<b>Terraform</b>
   -[Terraform Practice Project]
 
--<b>AWS</b>
-  -[Setup and Configuration of Virtual Machine(EC2) via Terraform]()
-  -[Setup and Configuration of Cloud Storage Systems via Terraform]()
-  -[Hosting a Static Website via Terraform]()
+- <b>AWS</b>
+  - [Setup and Configuration of Virtual Machine(EC2) via Terraform]()
+  - [Setup and Configuration of Cloud Storage Systems via Terraform]()
+  - [Hosting a Static Website via Terraform]()
 
 
 - <b>Microsoft Azure</b>
