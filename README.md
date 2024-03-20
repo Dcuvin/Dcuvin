@@ -9,9 +9,6 @@
 
 <h2>Cloud Projects:</h2>
 
-- <b>Terraform</b>
-  -[Terraform Practice Project]()
-
 - <b>AWS</b>
   - [Setup and Configuration of Virtual Machine(EC2) via Terraform]()
   - [Setup and Configuration of Cloud Storage Systems via Terraform]()
