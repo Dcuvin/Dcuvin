@@ -9,7 +9,7 @@
 
 <h2>Cloud Projects:</h2>
 
--< b>Terraform</b>
+- <b>Terraform</b>
   -[Terraform Practice Project]()
 
 - <b>AWS</b>
