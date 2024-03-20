@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dave, a <a href="https://www.linkedin.com/in/david-cuvin-83a6527a/">Chef turned Cloud Engineer</a>☺</h1>
+<h1>Hi, I'm Dave, a <a href="https://www.linkedin.com/in/david-cuvin-83a6527a/">Chef turned Cloud Engineer</a></h1>
 
 <h2> Information Technology Projects:</h2>
 
@@ -9,13 +9,13 @@
 
 <h2>Cloud Projects:</h2>
 
--<b>Terraform</b>
+-< b>Terraform</b>
   -[Terraform Practice Project]()
 
--<b>AWS</b>
-  -[Setup and Configuration of Virtual Machine(EC2) via Terraform]()
-  -[Setup and Configuration of Cloud Storage Systems via Terraform]()
-  -[Hosting a Static Website via Terraform]()
+- <b>AWS</b>
+  - [Setup and Configuration of Virtual Machine(EC2) via Terraform]()
+  - [Setup and Configuration of Cloud Storage Systems via Terraform]()
+  - [Hosting a Static Website via Terraform]()
 
 
 - <b>Microsoft Azure</b>
