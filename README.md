@@ -1,7 +1,7 @@
 <h1>Hi, I'm Dave, a <a href="https://www.linkedin.com/in/david-cuvin-83a6527a/">Chef and self-taught coder</a></h1>
 
 <h2>Personal Projects:</h2>
-  -[Purveyor Project](https://github.com/Dcuvin/purveyor_project)
+  -<a href ="https://github.com/Dcuvin/purveyor_project"> Purveyor Project
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
