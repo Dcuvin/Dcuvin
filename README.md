@@ -2,8 +2,6 @@
 
 <h2>Personal Projects:</h2>
   -<a href ="https://github.com/Dcuvin/purveyor_project"> Purveyor Project
-<h2> Information Technology Projects:</h2>
-
 
 <h2>Cloud Projects:</h2>
 
